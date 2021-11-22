@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630431577 source:c:\users\dell\onedrive\pulpit\c++\spoj\równanie liniowe\main.cpp
+	<iostream>
+	<math.h>
+
