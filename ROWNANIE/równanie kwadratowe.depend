@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630438784 source:c:\users\dell\onedrive\pulpit\c++\spoj\równanie kwadratowe\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+

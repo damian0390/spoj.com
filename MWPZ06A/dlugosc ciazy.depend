@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630783565 source:c:\users\dell\onedrive\pulpit\c++\spoj\dlugosc ciazy\main.cpp
+	<iostream>
+	<math.h>
+
