@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666213214 source:c:\users\dell\onedrive\pulpit\inne\spoj.com\wi_daty\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
